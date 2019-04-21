@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/lestrrat-go/libxml2/clib"
-	"github.com/lestrrat-go/libxml2/dom"
-	"github.com/lestrrat-go/libxml2/parser"
-	"github.com/lestrrat-go/libxml2/types"
+	"github.com/Existed/libxml2/clib"
+	"github.com/Existed/libxml2/dom"
+	"github.com/Existed/libxml2/parser"
+	"github.com/Existed/libxml2/types"
 	"github.com/pkg/errors"
 )
 

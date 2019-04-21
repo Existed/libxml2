@@ -2,7 +2,7 @@
 
 Interface to libxml2, with DOM interface.
 
-[![Build Status](https://travis-ci.org/lestrrat-go/libxml2.svg?branch=master)](https://travis-ci.org/lestrrat-go/libxml2)
+[![Build Status](https://travis-ci.org/Existed/libxml2.svg?branch=master)](https://travis-ci.org/Existed/libxml2)
 
 [![GoDoc](https://godoc.org/github.com/lestrrat-go/libxml2?status.svg)](https://godoc.org/github.com/lestrrat-go/libxml2)
 
@@ -68,10 +68,10 @@ import (
   "log"
   "net/http"
 
-  "github.com/lestrrat-go/libxml2"
-  "github.com/lestrrat-go/libxml2/parser"
-  "github.com/lestrrat-go/libxml2/types"
-  "github.com/lestrrat-go/libxml2/xpath"
+  "github.com/Existed/libxml2"
+  "github.com/Existed/libxml2/parser"
+  "github.com/Existed/libxml2/types"
+  "github.com/Existed/libxml2/xpath"
 )
 
 func ExampleXML() {
@@ -149,8 +149,8 @@ import (
   "os"
   "path/filepath"
 
-  "github.com/lestrrat-go/libxml2"
-  "github.com/lestrrat-go/libxml2/xsd"
+  "github.com/Existed/libxml2"
+  "github.com/Existed/libxml2/xsd"
 )
 
 func ExampleXSD() {
@@ -212,7 +212,7 @@ ok      github.com/lestrrat-go/libxml2  37.597s
 
 ## See Also
 
-* https://github.com/lestrrat-go/xmlsec
+* https://github.com/Existed/xmlsec
 
 ## Credits
 

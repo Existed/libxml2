@@ -212,7 +212,7 @@ ok      github.com/lestrrat-go/libxml2  37.597s
 
 ## See Also
 
-* https://github.com/Existed/xmlsec
+* https://github.com/lestrrat-go/xmlsec
 
 ## Credits
 
